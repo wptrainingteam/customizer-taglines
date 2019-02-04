@@ -67,11 +67,13 @@ The Customizer is not required to modify your site, but it offers an easy means 
 3.  To fix accessibility problems
 4.  To promote WordPress
 
-**Answer:**  2.To summarize the essence of the site **Where can you modify your site tagline's text? (select all correct answers)**
+**Answer:**  2. To summarize the essence of the site
+
+**Where can you modify your site tagline's text? (select all correct answers)**
 
 1.  Theme Customizer
 2.  style.css file
 3.  General Settings
 4.  JetPack
 
-**Answer:** 1.Theme Customizer & 3. site's General Settings
+**Answer:** 1. Theme Customizer & 3. site's General Settings
