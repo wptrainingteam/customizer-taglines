@@ -2,7 +2,7 @@
 
 ## Description
 
-In this lesson you will learn how a tagline is used in WordPress and how to edit the tagline using the Theme Customizer. You will also review a standard means for managing the tagline.
+In this lesson, you will learn how a tagline is used in WordPress and how to edit the tagline using the Theme Customizer. You will also review a standard means for managing the tagline.
 
 ## Objectives
 
@@ -49,7 +49,7 @@ The WordPress Customizer allows you to change many aspects of your WordPress si
 
 ### Other methods to modify taglines
 
-The Customizer is not required to modify your site, but it offers an easy means to preview changes as they are made. Some themes may not support the Customizer, although it is required for all newly created themes available from WordPress.org. Also note that each theme designer determines how to implement Customizer functionality, so some themes may vary from the default experience with the Twenty Sixteen theme. So, you may need an alternative method to modify your site's tagline. **General Settings** You can also modify your tagline in the standard **Settings > General** section of the dashboard. [![Selection_032](https://make.wordpress.org/training/files/2016/08/Selection_032.png)](https://make.wordpress.org/training/files/2016/08/Selection_032.png)
+The Customizer is not required to modify your site, but it offers an easy means to preview changes as they are made. Some themes may not support the Customizer, although it is required for all newly created themes available from WordPress.org. Also, note that each theme designer determines how to implement Customizer functionality, so some themes may vary from the default experience with the Twenty Sixteen theme. So, you may need an alternative method to modify your site's tagline. **General Settings** You can also modify your tagline in the standard **Settings > General** section of the dashboard. [![Selection_032](https://make.wordpress.org/training/files/2016/08/Selection_032.png)](https://make.wordpress.org/training/files/2016/08/Selection_032.png)
 
 ## Exercises
 
