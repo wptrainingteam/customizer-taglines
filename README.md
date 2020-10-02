@@ -41,7 +41,7 @@ You will be better equipped to work through this lesson if you have experience i
 
 ### What is the tagline?
 
-The WordPress site **tagline** is a short phrase located under the site title similar to a subtitle or advertising slogan. The goal of a tagline is to convey the essence of your site to visitors. [caption id="attachment_7253" align="alignnone" width="630"][![Title, tagline and main menu of https://bestblog.wordpress.com/ ](https://make.wordpress.org/training/files/2016/08/Selection_024.png)](https://make.wordpress.org/training/files/2016/08/Selection_024.png) Title, tagline and main menu of https://bestblog.wordpress.com/[/caption]
+The WordPress site **tagline** is a short phrase located under the site title similar to a subtitle or advertising slogan. The goal of a tagline is to convey the essence of your site to visitors. [caption id="attachment_7253" align="alignnone" width="630"][![Title, tagline and mian menu of https://bestblog.wordpress.com/ ](https://make.wordpress.org/training/files/2016/08/Selection_024.png)](https://make.wordpress.org/training/files/2016/08/Selection_024.png) Title, tagline and main menu of https://bestblog.wordpress.com/[/caption]
 
 ### How to modify taglines with the Customizer
 
